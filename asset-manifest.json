@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/blockly_demo/static/css/main.e6c13ad2.css",
+    "main.js": "/blockly_demo/static/js/main.144a2c49.js",
+    "static/js/787.a55e440a.chunk.js": "/blockly_demo/static/js/787.a55e440a.chunk.js",
+    "index.html": "/blockly_demo/index.html",
+    "main.e6c13ad2.css.map": "/blockly_demo/static/css/main.e6c13ad2.css.map",
+    "main.144a2c49.js.map": "/blockly_demo/static/js/main.144a2c49.js.map",
+    "787.a55e440a.chunk.js.map": "/blockly_demo/static/js/787.a55e440a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.144a2c49.js"
+  ]
+}
