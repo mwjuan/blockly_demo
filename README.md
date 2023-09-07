@@ -1,70 +1,33 @@
-# Getting Started with Create React App
+[Blockly](https://github.com/google/blockly) 和 [Scratch Blocks](https://github.com/scratchfoundation/scratch-blocks) 是两个不同的图形化编程工具，它们都由 MIT 开发，并且都是用于教育和帮助初学者学习编程的工具。以下是它们之间的一些主要区别：
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+1. **设计目标**：
 
-## Available Scripts
+   - Blockly：Blockly 是一个通用的图形化编程库，它可以用于创建各种类型的编程环境，涵盖了多种编程范式（如结构化编程、面向对象编程等）。
+   
+   - Scratch Blocks：Scratch Blocks 是专为 Scratch 编程环境设计的图形化编程库，它专注于提供适用于 Scratch 项目的积木块。
 
-In the project directory, you can run:
+2. **外观和风格**：
 
-### `yarn start`
+   - Blockly：Blockly 的外观相对简洁，可以根据需要进行定制，支持多种主题和风格的积木块。
+   
+   - Scratch Blocks：Scratch Blocks 的外观与 Scratch 编程环境保持一致，具有独特的视觉风格，积木块的样式与 Scratch 软件中的积木块相似。
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+3. **适用范围**：
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+   - Blockly：Blockly 可以用于构建各种类型的编程环境，包括但不限于游戏开发、Web 应用程序、机器人控制等。
+   
+   - Scratch Blocks：Scratch Blocks 主要用于支持 Scratch 编程环境，用于创建交互式教育项目和游戏。
 
-### `yarn test`
+4. **定制性**：
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+   - Blockly：Blockly 提供了丰富的定制选项，允许开发者根据需要创建自定义的积木块和功能。
+   
+   - Scratch Blocks：Scratch Blocks 在设计上更专注于与 Scratch 编程环境的整合，定制性相对较低。
 
-### `yarn build`
+5. **社区和生态系统**：
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+   - Blockly：Blockly 有一个活跃的社区和广泛的使用，支持丰富的文档和资源，可以用于各种项目。
+   
+   - Scratch Blocks：Scratch Blocks 的社区主要围绕着 Scratch 编程平台，有大量的教育资源和支持。
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+总的来说，Blockly 是一个通用的图形化编程库，可以用于各种不同类型的项目，而 Scratch Blocks 是专为 Scratch 编程环境定制的图形化编程库，主要用于支持 Scratch 项目的开发和教育。选择使用哪一个取决于你的具体需求和项目的目标。
